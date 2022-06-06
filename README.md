@@ -29,7 +29,7 @@ Or you can open the project in your text editor for example VS.Code, and run `ng
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).\
 You can see the coverage of test in detail by oppening index.html from coverage/operation-list-app.
 
 
