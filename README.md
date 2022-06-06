@@ -25,7 +25,7 @@ finally, you can run the project by running this code.
 
 Navigate to `http://localhost:4200/` to see the result.
 Or you can open the project in your text editor for example VS.Code, and run `ng serve` from there.\
-by changing the name of JSON files, you can see different situations if the errors occur.
+by changing the name of JSON files in the assets folder, you can see different situations if the errors occur.
 
 
 
