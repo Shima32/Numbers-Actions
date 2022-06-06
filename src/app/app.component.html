@@ -1,0 +1,14 @@
+<h1 class="myTest" >Operation</h1>
+ 
+ <div  class="container" *ngIf="errorMessage != 'Numbers Error'">
+    <ul  *ngFor="let item of numbers; let i =index">
+      <li class="missingData" *ngIf="item.operand == 0"> {{errorMessage}} </li>
+      <li  *ngIf="item.operand != 0">
+          {{item.value}}
+          {{item.action}}
+          {{item.operand}}
+          =
+          {{item.result}}
+        </li>
+    </ul>
+  </div>

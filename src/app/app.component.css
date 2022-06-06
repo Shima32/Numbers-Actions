@@ -1,0 +1,44 @@
+.operations-container{
+    margin-bottom: 1rem;
+}
+ ul{
+    margin: 0;
+    padding: 0.5rem;
+    text-size-adjust:initial;
+    text-align: center;
+}
+
+li {
+    list-style:none;
+    font-size: 1.25rem;
+    font-style: oblique;
+    margin-bottom: 1rem;
+    padding: 0.25rem; 
+    text-align: center;
+    color: rgb(27, 111, 4);
+    
+}
+.missingData{
+
+    list-style:none;
+    font-size: 1rem;
+    font-style: oblique;
+    margin-bottom: 1rem;
+    padding: 0.25rem; 
+    text-align: center;
+    color: rgb(174, 11, 11);
+}
+.container {
+    max-width: 200px;
+    margin-top: 5%;
+    margin-left: 36%;
+    overflow: auto;
+    min-height: 300px;
+    border: 2px solid steelblue;
+    padding: 30px;
+    border-radius: 10px;
+  }
+.myTest {
+    color: rgb(252, 253, 251);
+
+}

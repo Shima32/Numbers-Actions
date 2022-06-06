@@ -1,0 +1,12 @@
+
+html, body {
+  font-family: "Poppins", sans-serif;
+}
+
+.snackbar {
+  background-color: rgb(242, 188, 93);
+  border: 10px;
+  position: absolute;
+  right: 490px;
+  top: 200px;
+}
