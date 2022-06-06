@@ -24,13 +24,15 @@ finally, you can run the project by running this code.
 ```
 
 Navigate to `http://localhost:4200/` to see the result.
-Or you can open the project in your text editor for example VS.Code, and run `ng serve` from there.
+Or you can open the project in your text editor for example VS.Code, and run `ng serve` from there.\
+by changing the name of JSON files, you can see different situations if the errors occur.
+
 
 
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).\
-You can see the coverage of test in detail by oppening index.html from coverage/operation-list-app.
+You can see the coverage of the test in detail by opening index.html from coverage/operation-list-app.
 
 
 
